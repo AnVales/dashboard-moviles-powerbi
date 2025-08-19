@@ -1,4 +1,4 @@
-📖 Este repositorio contiene un dashboard de Power BI con el análisis de ventas de dispositivos móviles.
+# 📖 Este repositorio contiene un dashboard de Power BI con el análisis de ventas de dispositivos móviles.
 
 Incluye:
 
